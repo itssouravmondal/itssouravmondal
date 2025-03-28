@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssouravmondal&label=Profile%20views&color=0e75b6&style=flat" alt="itssouravmondal" /> </p>
 
 - 🌱 I’m currently learning **Agentic AI Systems**
+  
+- 💬 Ask me about **Digital Product, AI Agent & Automation**
+- 
+- 📫 How to reach me **contactsourav96@gmail.com**
 
 - 👨‍💻 All projects are available at [https://itssouravmondal.netlify.app/projects](https://itssouravmondal.netlify.app/projects)
 
 - 📝 My Research & Analysis [https://itssouravmondal.netlify.app/research](https://itssouravmondal.netlify.app/research)
-
-- 💬 Ask me about **Digital Product, AI Agent & Automation**
-
-- 📫 How to reach me **contactsourav96@gmail.com**
 
 - 📄 My experiences [https://itssouravmondal.netlify.app/experience](https://itssouravmondal.netlify.app/experience)
 
