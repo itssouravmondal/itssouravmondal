@@ -7,7 +7,7 @@
   
 - 💬 Ask me about **Digital Product, AI Agent & Automation**
   
-- 📫 How to reach me **contactsourav96@gmail.com**
+- 📫 How to reach me **contactsourav96@gmail.com / +919315041645**
 
 - 👨‍💻 All projects are available at [https://itssouravmondal.netlify.app/projects](https://itssouravmondal.netlify.app/projects)
 
