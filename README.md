@@ -15,7 +15,7 @@
 
 - 📄 My experiences [https://itssouravmondal.netlify.app/experience](https://itssouravmondal.netlify.app/experience)
 
-- ⚡ Fun fact **1st LEARN then remove "R" now it's EARN**
+- ⚡ Fun fact - **1st LEARN then remove "R" now it's EARN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
