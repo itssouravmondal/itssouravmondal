@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Mondal</h1>
-<h3 align="center">As an aspiring Digital Product Manager</h3>
+<h3 align="center"> Aspiring Digital Product Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssouravmondal&label=Profile%20views&color=0e75b6&style=flat" alt="itssouravmondal" /> </p>
 
