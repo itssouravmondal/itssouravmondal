@@ -15,8 +15,6 @@
 
 - 📄 My experiences [https://itssouravmondal.netlify.app/experience](https://itssouravmondal.netlify.app/experience)
 
-- ⚡ Fun fact - **1st LEARN then remove "R" now it's EARN**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itssouravmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itssouravmondal" height="30" width="40" /></a>
